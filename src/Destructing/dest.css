@@ -1,0 +1,19 @@
+.r1{
+   
+  padding: 20px;
+  flex-basis: 460px;
+  background-color: gray;
+  color: white;
+  font-style: italic;
+  text-transform: uppercase;
+  border-radius: 7px;
+    
+  }.main{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    color: red;
+  }.s{
+    color: orange;
+    
+  }
