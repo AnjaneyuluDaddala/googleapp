@@ -6,9 +6,7 @@ import ReactDOM from 'react-dom/client';
 // import Bike from './Bike/bike';
 // import Garage from './react1';
 // import Management from './Destructing/dest';
-import Store from './CarInfo/test';
-import Shooting from './Clickevents/event';
-import Ball from './Clickevents/event1';
+
 import App from "./App"
 
 
@@ -23,9 +21,7 @@ root.render(
   <Management/>*/
   }
 
-  <Store/>
-  <Shooting/>
-  <Ball/>
+  
   <App />
   </>
 );

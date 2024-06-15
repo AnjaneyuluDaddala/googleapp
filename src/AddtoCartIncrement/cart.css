@@ -1,0 +1,14 @@
+img{
+    height: 150px;
+    width: 78px;
+}
+.card{
+    border: 3px solid palevioletred;
+    width: 150px;
+    height: 90px;
+}
+.card-body{
+   
+    display: flex;
+    justify-content: center;
+}
